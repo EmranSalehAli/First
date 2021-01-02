@@ -1,1 +1,2 @@
-This is yout first line in github.
+This is yout first line in github. 
+This is your second line.
